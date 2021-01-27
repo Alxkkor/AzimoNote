@@ -3,22 +3,7 @@
 Example Android Project created for sake of presenting one of many possible ways how to integrate [AutomationTestSupervisor](https://github.com/AzimoLabs/AutomationTestSupervisor) tool with Android Application. AutomationTestSupervisor is our open source Python tool for managing and organizing Android automation test session.
 
 -------------
-
-### TL;DR quick launch
-
-1. Enter directory where you want to fetch project.
-
-    ```cd ~/<directory>```
-
-2. Clone AzimoNote repository:
-
-    ```git clone https://github.com/AzimoLabs/AzimoNote.git```
-
-3. Enter to root directory of AzimoNote project. Make sure submodules are synchronized (files of AutomationTestSupervisor should appear in `./automation/AutomationTestSupervisor/` directory):
-
-    ```git submodule update --init --recursive```
-
-    ```git submodule sync --recursive```
+cive```
 
 4. Make sure you have `Python 3.6` or newer installed and available from terminal. (If you are MAC OS user we highly recommend [Homebrew](https://brew.sh/) -> `brew install python3`.)
 
