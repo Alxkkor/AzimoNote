@@ -13,7 +13,7 @@
 
 # Generated files
 bin/
-gen/
+gen/555
 
 # Gradle files
 .gradle/
